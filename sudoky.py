@@ -1,7 +1,6 @@
 """Time is used optionally to delay each iteration of solution"""
 import time
 
-# Python Sudoku Solver by Mateo Ismodes
 def print_board(board):
     """Prints Sudoku board from two-dimensional array input"""
     counter = 0
